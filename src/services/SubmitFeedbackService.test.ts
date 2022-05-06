@@ -9,7 +9,6 @@ const submitFeedbackService = new SubmitFeedbackService(
 );
 
 describe('Submit feedback', () => {
-
     it('should be able to submit a feedback', async () => {
         await expect(
             submitFeedbackService.execute({
