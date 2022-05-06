@@ -7,6 +7,7 @@ The goal of this event is to teach and share knowledge about frontend, backend a
 The tech stack that they use the most is React, React Native and Node.
 
 This year, we created a widget to allow the users to send feedback.
+This repository contains the web user interface of the widget.
 
 ![widget](./assets/images/widget.png)
 
