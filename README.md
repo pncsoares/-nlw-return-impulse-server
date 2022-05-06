@@ -49,6 +49,14 @@ Open terminal and execute the following command:
   npm run dev
 ```
 
+## Run tests
+
+Open terminal and execute the following command:
+
+```bash
+  npm run test
+```
+
 # License
 
 MIT
