@@ -45,7 +45,7 @@ Go to the project directory
 Open terminal and execute the following command:
 
 ```bash
-    npm run dev
+  npm run dev
 ```
 
 # License
