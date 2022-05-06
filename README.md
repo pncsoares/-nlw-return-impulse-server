@@ -11,6 +11,14 @@ This repository contains the web user interface of the widget.
 
 ![widget](./assets/images/widget.png)
 
+# Improvements checklist
+
+- [ ] Change email service to a production one
+- [ ] Improve email HTML + CSS
+- [ ] Add parameters and algorithms validation
+    - [ ] Handle error
+    - [ ] Display user friendly message
+
 # Technologies
 
 - [TypeScript](https://www.typescriptlang.org/docs/)
